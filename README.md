@@ -10,7 +10,7 @@ April 16, 2018
 Annie Jacobson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 8 assignment was about building an application that displayed information about different movies through "Seminole Connection". We used the jQuery and AJAX methods to parse JSON data returned from a server called API aka Application Programming Interface, and used Ajax methods and properties that allow the client to send an HTTP request to recieve back an HTTP response.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
