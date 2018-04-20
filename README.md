@@ -14,7 +14,6 @@ Lesson 8 assignment was about building an application that displayed information
 
 ### View Project:
 https://agj15.github.io/lesson8_ajax/
-https://ide.c9.io/anniejacobson/jacobson_lesson8_ajax
 
 ### Lessons Learned in the Assignment:
 1. JSON: Javascript Object Notation, is a text-based, lightweight open standard designed for human-readable data interchange. It is primarily used to transmit data between a server and web apps and it extends the JavaScript scripting language. It is very useful, as web services and APIs use this format to provide public data and grab it from others.
