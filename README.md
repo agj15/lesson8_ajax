@@ -13,8 +13,7 @@ Annie Jacobson
 Lesson 8 assignment was about building an application that displayed information about different movies through "Seminole Connection". We used the jQuery and AJAX methods to parse JSON data returned from a server called API aka Application Programming Interface, and used Ajax methods and properties that allow the client to send an HTTP request to recieve back an HTTP response.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://agj15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. JSON: Javascript Object Notation, is a text-based, lightweight open standard designed for human-readable data interchange. It is primarily used to transmit data between a server and web apps and it extends the JavaScript scripting language. It is very useful, as web services and APIs use this format to provide public data and grab it from others.
