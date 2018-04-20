@@ -17,7 +17,8 @@ Annie Jacobson
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JSON: Javascript Object Notation, is a text-based, lightweight open standard designed for human-readable data interchange. It is primarily used to transmit data between a server and web apps and it extends the JavaScript scripting language. It is very useful, as web services and APIs use this format to provide public data and grab it from others.
+2. AJAX: Asynchronous Javascript, is technology that allows people to load dates from a server without a page refresh in a browser. This allows for creating faster, better and more interactive web apps. Applications that use AJAX are considered data-driven rather than page-driven.
+3. API: Application programming interface is a set of programming instructions or standards to access different web-based software applications. A software company releases its own API to the public in order for other software developers to design products that are powered by its service.
+
 # lesson8_ajax
